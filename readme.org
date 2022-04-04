@@ -1,0 +1,4 @@
+
+* Stella-rs, or a place without aim.
+
+- [ ] Load =assets/town.obj= and move the camera around it.
