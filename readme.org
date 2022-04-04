@@ -2,3 +2,4 @@
 * Stella-rs, or a place without aim.
 
 - [ ] Load =assets/town.obj= and move the camera around it.
+  - [[https://github.com/bevyengine/bevy/blob/latest/examples/asset/asset_loading.rs][Given Example]]
